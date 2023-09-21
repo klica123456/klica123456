@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maruck3@naver.com)](https://solved.ac/maruck3@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klica)](https://solved.ac/klica/)
