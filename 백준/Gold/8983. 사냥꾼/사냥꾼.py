@@ -6,6 +6,8 @@ animal.sort()
 ans = 0
 k = 0
 for a, b in animal:
+    if mx_axis[-1] + 4 < a:
+        break
     if b > L:
         continue
     for i in range(k, len(mx_axis)):
@@ -14,4 +16,3 @@ for a, b in animal:
             ans += 1
             break
 print(ans)
-
