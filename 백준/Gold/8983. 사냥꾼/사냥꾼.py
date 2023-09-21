@@ -10,8 +10,8 @@ for a, b in animal:
         continue
     for i in range(k, len(mx_axis)):
         if abs(mx_axis[i]-a)+b <= L:
-            if i-1 > 0:
-                k = i-1
+            k = i
             ans += 1
             break
 print(ans)
+
