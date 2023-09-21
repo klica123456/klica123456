@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=SSAFY&color=B8E6F2)
 # 안녕하세요
 <div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python%20&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
